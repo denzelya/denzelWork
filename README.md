@@ -8,7 +8,7 @@ click above pic to go to Google Play
 <p>&nbsp;</p>
 click below gif to watch demo on YouTube
 
-[![Watch Demo on YouTube](./cube.gif)]([https://youtube.com/shorts/2nMNH5K_6i4))
+[![Watch Demo on YouTube](./cube.gif)](https://youtube.com/shorts/2nMNH5K_6i4))
 
   
    
